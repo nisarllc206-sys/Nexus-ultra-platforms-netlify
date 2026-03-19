@@ -1,4 +1,4 @@
-# Nexus Ultra Platforms — Full-Stack AI Code Generator
+87417e6f7964dfd2e478f4e08262d14b6ed4685d# Nexus Ultra Platforms — Full-Stack AI Code Generator
 
 > **Nexus Ultra Platforms · nisarllc206-sys**
 > [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
@@ -216,8 +216,8 @@ Or deploy to Railway / Render with a single `railway up` command.
 
 ## GitHub
 
-[https://github.com/nisarllc206-sys/Ai-pdf-super-toolkit](https://github.com/nisarllc206-sys/Ai-pdf-super-toolkit)
 
+87417e6f7964dfd2e478f4e08262d14b6ed4685d
 ---
 
 ## License
